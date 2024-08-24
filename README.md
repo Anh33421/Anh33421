@@ -5,7 +5,7 @@ Block MobileLiên Quân
 # https://github.com/anh33421
 #
 # Fetch the latest version of this file:
-# https://raw.githubusercontent.com/anh33421/lienquan.garena.vn/
+# https:lienquan.garena.vn/
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 
