@@ -5,8 +5,7 @@ Block MobileLiên Quân
 # https://github.com/anh33421/blockgamevn
 #
 # Fetch the latest version of this file:
-# https://raw.githubusercontent.com/anh33421/blockgamevn/master/blockgamevn.txt
-#
+# https://raw.githubusercontent.com/anh33421/blockgamevn/master/lienquan.garena.vn/
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 
